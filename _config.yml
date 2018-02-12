@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olivier Levon"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Olivier Levon"
-description              : "Personal web page"
-url                      : "https://olivierlevon.github.io/"
-baseurl                  : ""
-repository               : "olivierlevon/olivierlevon.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Olivier Levon"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Skydive !"
-  location         : "Paris, France"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
